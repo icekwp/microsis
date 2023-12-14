@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
